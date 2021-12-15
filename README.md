@@ -1,3 +1,6 @@
 # Pac-Mac-AI
 Control Ms Pac Man with AI Tree
-Create a Finite State Machine that returns in every instance the move command for Ms PacMan
+
+Α Finite State Machine created that returns in every instance the move command for Ms PacMan.
+
+Purpose is the highest score of Pac-Man.
