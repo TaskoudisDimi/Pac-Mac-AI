@@ -1,8 +1,4 @@
-# Pac-Mac-AI
-Control Ms Pac Man with AI Tree
-
-Α Finite State Machine created that returns in every instance the move command for Ms PacMan.
-
+# Pac-Man-AI
+Added a technique (tree AI) to ready code that ran the Pacman game. More specifically, a finite state machine was created that returns the motion command for Ms PacMan in every case.
 This FSM was created in the file "MyPacMan.java" ("starter\src\main\java\entrants\pacman\username")
-
-Purpose is the highest score of Pac-Man.
+The goal is the highest Pac-Man score.
